@@ -4,3 +4,15 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"COMP":
+  url: https://www.springer.com/journal/607
+  color: "#8806CE"
+
+"SIMPAT":
+  url: https://www.sciencedirect.com/journal/simulation-modelling-practice-and-theory
+  color: "#F15152"
+
+"IJTD":
+  url: https://www.igi-global.com/journal/international-journal-technology-diffusion/1135
+  color: "#00369f"
