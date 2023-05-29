@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gfragi.github.io//sitemap.xml
+Sitemap: https://gfragi.github.io/sitemap.xml
