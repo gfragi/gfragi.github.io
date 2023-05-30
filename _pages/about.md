@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.dit.hua.gr/index.php/en/'>Department of Informatics and Telematics @HUA</a>
 
 profile:
   align: right
