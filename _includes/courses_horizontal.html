@@ -1,0 +1,40 @@
+<div class="card-item col">
+  {%- if course.redirect -%}
+  <a href="{{ course.redirect }}">
+  {%- else -%}
+  <a href="{{ course.url | relative_url }}">
+  {%- endif -%}
+    <div class="card hoverable">
+      <div class="row g-0">
+        {%- if course.img -%}
+        <div class="card-img col-md-6">
+          {% include figure.html path=course.img alt="course thumbnail" %}
+        </div>
+        <div class="col-md-6">
+        {%- else -%}
+        <div class="col-md-12">
+        {%- endif -%}
+          <div class="card-body">
+            <h3 class="card-title text-lowercase">{{ course.title }}</h3>
+            <p class="card-text">{{ course.description }}</p>
+            <div class="row ml-1 mr-1 p-0">
+              {%- if course.github -%}
+              <div class="github-icon">
+                <div class="icon" data-toggle="tooltip" title="Code Repository">
+                  <a href="{{ course.github }}"><i class="fab fa-github gh-icon"></i></a>
+                </div>
+                {%- if course.github_stars -%}
+                <span class="stars" data-toggle="tooltip" title="GitHub Stars">
+                  <i class="fas fa-star"></i>
+                  <span id="{{ course.github_stars }}-stars"></span>
+                </span>
+                {%- endif -%}
+              </div>
+              {%- endif -%}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
