@@ -540,6 +540,37 @@ footer.sticky-bottom {
   text-align: right;
 }
 
+.courses a {
+  text-decoration: none;
+}
+.courses a:hover .card-title {
+  color: var(--global-theme-color);
+}
+.courses .card img {
+  width: 100%;
+}
+.courses .card-item {
+  width: auto;
+  margin-bottom: 10px;
+}
+.courses .card-item .row {
+  display: flex;
+  align-items: center;
+}
+.courses .grid-sizer,
+.courses .grid-item {
+  width: 250px;
+  margin-bottom: 10px;
+}
+.courses h2.category {
+  color: var(--global-divider-color);
+  border-bottom: 1px solid var(--global-divider-color);
+  padding-top: 0.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  text-align: right;
+}
+
 .publications {
   margin-top: 2rem;
 }
