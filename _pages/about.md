@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>office number 3.1</p>
-    <p>9, Omirou Str.</p>
-    <p>Tavros, Attica 17778</p>
+    <p align='right'>office number 3.1
+    <br>9, Omirou Str.
+    <br>Tavros, Attica 17778</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,11 +19,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, I'm George M. Fragiadakis, an enthusiastic and dedicated individual with a diverse background in the academic and professional realms. Currently, I am a PhD candidate in Technoecomics of IoT and also serve as a Senior DevOps Engineer at <a href="https://studyingreece.edu.gr/study-in-greece/">Study in Greece</a>. I hold a Bachelor's degree in <a href="https://en.phys.uoa.gr/">Physics from the National Kapodistrian University in Athens</a> and pursued a Master's degree in <a href="https://www.dit.hua.gr/index.php/en/" >Informatics and Telematics from Harokopio University</a>, where I specialized in Informatics & Telematics. As an Erasmus student, I had the privilege of studying at the Niehls Bohr Institute in Copenhagen. 
+Hello, I'm George M. Fragiadakis, an enthusiastic and dedicated individual with a diverse background in the academic and professional realms. Currently, I am a PhD candidate in Technoecomics of IoT and also serve as a Senior DevOps Engineer at <a href="https://studyingreece.edu.gr/study-in-greece/">Study in Greece</a>. I hold a Bachelor's degree in <a href="https://en.phys.uoa.gr/">Physics from the National Kapodistrian University in Athens</a> and pursued a Master's degree in <a href="https://www.dit.hua.gr/index.php/en/" >Informatics and Telematics from Harokopio University</a>, where I specialized in Development and Operations of Next Generation Networks and Services. As an Erasmus student, I had the privilege of studying at the Niehls Bohr Institute in Copenhagen. 
 
-With over 8 years of experience in the technology field,  I possess a strong affinity for monitoring and utilizing tools such as Grafana, ELK, Prometheus, and Icinga2 to ensure system performance and reliability. My expertise spans across DevOps, IT and Cloud technologies, Kubernetes, Python, technoeconomics, data engineering, and business analysis. Additionally, I have hands-on experience with automation testing using Cypress, enabling efficient and robust testing processes. I find great satisfaction in leveraging automation to streamline workflows and enhance overall productivity. 
+With over 8 years of experience in the technology field, I thrive on troubleshooting and implementing cutting-edge technologies. In the realm of DevOps, I possess skills in Kubernetes and Docker, enabling me to effectively orchestrate and manage containerized applications. Additionally, I have experience in implementing Continuous Integration and Continuous Deployment (CI/CD) processes, fostering efficient and streamlined development practices. My DevOps skills also encompass utilizing monitoring tools such as Grafana, ELK, Prometheus, allowing me to effectively monitor systems and maintain their stability. I am passionate about automation testing and have utilized Cypress, ensuring efficient and reliable testing processes. In addition, my academic background in technoeconomics, data engineering, and business analysis has given me a strong analytical mindset and the ability to extract insights from complex information. Additionally, my teaching experience at various education levels has honed my ability to effectively communicate complex concepts. 
 
-Additionally, my teaching experience at various education levels has honed my ability to effectively communicate complex concepts. I find immense joy in uncovering the stories hidden within data and leveraging visualization techniques to bring them to life. My true interest, aside from my professional pursuits, is my family and my children. They are an endless source of motivation and inspiration. I am eager to apply my skills and expertise to make a meaningful impact in the field I work for, driving innovation, and telling compelling stories through data visualization.
+Beyond my professional pursuits, my true passion lies in my family and children. They are a constant source of inspiration and motivation. These personal interests contribute to my well-rounded perspective and infuse a creative touch into my work.
 
 
 
