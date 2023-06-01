@@ -7,7 +7,7 @@ subtitle: <a href='https://www.dit.hua.gr/index.php/en/'>Department of Informati
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p align='right'>office number 3.1
     <br>9, Omirou Str.
