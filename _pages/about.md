@@ -23,7 +23,7 @@ Hello, I'm George M. Fragiadakis, an enthusiastic and dedicated individual with 
 
 With over 8 years of experience in the technology field, I thrive on troubleshooting and implementing cutting-edge technologies. In the realm of DevOps, I possess skills in Kubernetes and Docker, enabling me to effectively orchestrate and manage containerized applications. Additionally, I have experience in implementing Continuous Integration and Continuous Deployment (CI/CD) processes, fostering efficient and streamlined development practices. My DevOps skills also encompass utilizing monitoring tools such as Grafana, ELK, Prometheus, allowing me to effectively monitor systems and maintain their stability. I am passionate about automation testing and have utilized Cypress, ensuring efficient and reliable testing processes. In addition, my academic background in technoeconomics, data engineering, and business analysis has given me a strong analytical mindset and the ability to extract insights from complex information. Additionally, my teaching experience at various education levels has honed my ability to effectively communicate complex concepts. 
 
-Beyond my professional pursuits, my true passion lies in my family and children. They are a constant source of inspiration and motivation. These personal interests contribute to my well-rounded perspective and infuse a creative touch into my work.
+Beyond my professional pursuits, my true passion lies in my family and children. They are a constant source of inspiration and motivation. They are contribute to my well-rounded perspective and infuse a creative touch into my work.
 
 
 
