@@ -7,7 +7,7 @@ subtitle: <a href='https://www.dit.hua.gr/index.php/en/'>Department of Informati
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p align='right'>office number 3.1
     <br>9, Omirou Str.
@@ -25,7 +25,7 @@ With over 8 years of experience in the technology field, I thrive on troubleshoo
 
 In addition, my academic background in technoeconomics, data engineering, and business analysis has given me a strong analytical mindset and the ability to extract insights from complex information. Additionally, my teaching experience at various education levels has honed my ability to effectively communicate complex concepts. 
 
-Beyond my professional pursuits, my true passion lies in my family and children. They are a constant source of inspiration and motivation. These personal interests contribute to my well-rounded perspective and infuse a creative touch into my work.
+Beyond my professional pursuits, my true passion lies in my family and children. They are a constant source of inspiration and motivation. They are contribute to my well-rounded perspective and infuse a creative touch into my work.
 
 
 
