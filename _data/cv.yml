@@ -42,67 +42,83 @@
 - title: Experience
   type: time_table
   contents:
-#     - title: Professor of Theoretical Physics
-#       institution: Institute for Advanced Study, Princeton University
-#       year: 1933 - 1955
-#       description:
-#         - Description 1.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
-#     - title: Visiting Professor
-#       institution: California Institute of Technology, Pasadena, California, US
-#       year: 1933
-#       description:
-#         - Description 1.
-#         - Description 2.
+    - title: DevOps & Software Engineer
+      institution: Study in Greece | Official Portal
+      year: Jul 2021 - Present
+      description:
+        - Implementation of CI/CD across the entire infrastructure
+        - Kubernetes cluster develomepent & maintenance
+        - Web Platforms Development using Django \& FastAPI
 
-#     - title: Director
-#       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-#       year: 1917-1933
+    - title: Cloud & IoT Engineer
+      institution: Fermorite
+      year: Dec 2018 - Jun 2021
+      description:
+        - Development of Monitoring solution for internal infrastructure
+        - Development of Log \& Auditing collection for internal infrastructure with ELK
+        - Design & Ιmplementation of Infrastructure Transition Solutions to Cloud Services
+        - Evaluation of logistics for implementation in IT solutions
+        - Maintenance/Administration on Microsoft Hyper-V, ESXi Virtualization, Mail Server, DNS
 
-#     - title: Professor of Theoretical Physics
-#       institution: Karl-Ferdinand University, Prague, Czechoslovakia
-#       year: 1911 - 1917
-#       description:
+    - title: IPTV Engineer
+      institution: Vodafone Greece
+      year: Apr 2018  - Dec 2018
+      description:
+        - Satellite systems
+        - Media Room platform
+        - Nokia CDN operations
 
-#     - title: Associate Professor of Theoretical Physics
-#       institution: University of Zurich, Zurich, Switzerland
-#       year: 1909 - 1911
+    - title: Assurance & Delivery Associate Engineer
+      institution: Vodafone Greece
+      year: Jan 2017 - Mar 2018
+      description:
+        - Voice mail platform Support. testing services of VAS. Assurance of outbound Roaming services.
+        - WiKi design & creation for team's procedures etc. Documentation for monitoring users.
 
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: IT - Cloud Engineer
+      institution: Connecticore S.A.
+      year: Sep 2015 - Dec 2016
+      description:
+        - Maintenance, monitoring, users' documentation for Cloud services implemented within Citrix products.
+        - Customer Support in Cloud & IT Services.
+        - Project,  Migration & Consolidation of IT, IP and Radio infrastructure in Data Center (Cable managing, Server racking)
+        - Maintenance/Administration on Microsoft Hyper-V, ESXi Virtualization, Mail Server, DNS.
+
+    - title: Tutor of Physics & Mathematics in High School Pupils
+      institution: Self-employment
+      year: Mar 2004 - Jun 2016
+      description:
+        - Physics, Mathematics, Chemistry, Geometry.
+        - Preparing educational notes and exercises.
+        - Final exam preparation.
 
 - title: Honors and Awards
-  # type: time_table
-  # contents:
-  #   - year: 1921
-  #     items: 
-  #       - Nobel Prize in Physics 
-  #       - Matteucci Medal
-  #   - year: 2029
-  #     items: 
-  #       - Max Planck Medal
+  type: time_table
+  contents:
+    - year: 2022
+      items: 
+        - PhD scholarship from State Scholarships Foundation
+    - year: 2015
+      items: 
+        - M.Sc. Summer semester performance scholarship "Georgios Karabatzos"
+        - M.Sc. Winter semester performance scholarship "Georgios Karabatzos"
+        - Finalist in "ReGeneration 2015" Program
 
-- title: Academic Interests
-  type: nested_list
-  # contents:
-  #   - title: Topic 1.
-  #     items: 
-  #       - Description 1.
-  #       - Description 2.
-  #   - title: Topic 2.
-  #     items:
-  #       - Description 1.
-  #       - Description 2.
 
-- title: Other Interests
-  type: list
-  # contents:
-  #   - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
+# - title: Academic Interests
+#   type: nested_list
+#   # contents:
+#   #   - title: Topic 1.
+#   #     items: 
+#   #       - Description 1.
+#   #       - Description 2.
+#   #   - title: Topic 2.
+#   #     items:
+#   #       - Description 1.
+#   #       - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   # contents:
+#   #   - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
