@@ -19,5 +19,17 @@
   color: "#00369f"
 
 "{FutureInt-Journal}":
-  url: https://www.igi-global.com/journal/international-journal-technology-diffusion/1135
+  url: https://www.mdpi.com/journal/futureinternet
+  color: "#005073"
+
+"{arxiV-Preprint}":
+  url: https://arxiv.org/
+  color: "#005073"
+
+"{IEEE JCC-Conf}":
+  url: https://ieeejcc.com/
+  color: "#005073"
+
+"{GRID-Journal}":
+  url: https://link.springer.com/journal/10723
   color: "#005073"
