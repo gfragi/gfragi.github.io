@@ -11,6 +11,13 @@
 - title: Education
   type: time_table
   contents:
+    - title: "PostDoc in AI and Human-AI Collaboration"
+      institution: Harokopio University
+      year: since Nov. 2023
+      description:
+        - title: PostDoc Research
+          contents:
+            - "Optimizing Human-AI Synergy Developing a Comprehensive Benchmarking Suite for Human-AI Collaboration in Diverse Industries"
     - title: PhD in Techno-economics and Cloud Services
       institution: Harokopio University
       year: 2023
@@ -95,10 +102,10 @@
   type: time_table
   contents:
     - year: 2022
-      items: 
+      items:
         - PhD scholarship from State Scholarships Foundation
     - year: 2015
-      items: 
+      items:
         - M.Sc. Summer semester performance scholarship "Georgios Karabatzos"
         - M.Sc. Winter semester performance scholarship "Georgios Karabatzos"
         - Finalist in "ReGeneration 2015" Program

@@ -33,3 +33,7 @@
 "{GRID-Journal}":
   url: https://link.springer.com/journal/10723
   color: "#005073"
+
+  "{AppliedSciences-Journal}":
+    url: https://www.mdpi.com/journal/applsci,
+    color: "#005073"
