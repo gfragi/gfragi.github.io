@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: publications by categories in reversed chronological order. check out my <a href="https://scholar.google.com/citations?user=8jw-zScAAAAJ&hl=en">Google Scholar</a> profile for more.
+description: publications by categories in reversed chronological order. Check out my <a href="https://scholar.google.com/citations?user=8jw-zScAAAAJ&hl=en">Google Scholar</a> profile for more.
 years: [2024, 2023, 2022, 2019]
 nav: true
 nav_order: 1

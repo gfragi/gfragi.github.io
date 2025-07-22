@@ -16,7 +16,7 @@
 
 "IJTD-Journal":
   url: https://www.igi-global.com/journal/international-journal-technology-diffusion/1135
-  color: "#00369f"
+  color: "#00369F"
 
 "{FutureInt-Journal}":
   url: https://www.mdpi.com/journal/futureinternet
@@ -24,16 +24,16 @@
 
 "{arxiV-Preprint}":
   url: https://arxiv.org/
-  color: "#ff1c1c"
+  color: "#FF1C1C"
 
 "{IEEE JCC-Conf}":
   url: https://ieeejcc.com/
-  color: "#179cfe"
+  color: "#179CFE"
 
 "{GRID-Journal}":
   url: https://link.springer.com/journal/10723
-  color: "#086a79"
+  color: "#086A79"
 
   "{AppliedSciences-J}":
     url: https://www.mdpi.com/journal/applsci,
-    color: "#005073"
+    color: "#D4F20F"
