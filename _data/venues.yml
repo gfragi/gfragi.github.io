@@ -34,6 +34,6 @@
   url: https://link.springer.com/journal/10723
   color: "#086A79"
 
-  "{AppliedSciences-J}":
-    url: https://www.mdpi.com/journal/applsci,
-    color: "#D4F20F"
+"{AppliedSciences-J}":
+  url: https://www.mdpi.com/journal/applsci,
+  color: "#D4F20F"
