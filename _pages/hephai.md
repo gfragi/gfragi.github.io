@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 <div class="text-center">
-    {% include figure.html path="assets/img/hephai.png" title="HEPHAI Logo" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/hephai.png" title="HEPHAI Logo" class="img-fluid rounded z-depth-1" size "small"  %}
 </div>
 
 
