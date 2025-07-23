@@ -2,6 +2,8 @@
 title: "HEPHAI Project"
 permalink: /hephai/
 layout: page
+nav: true
+nav_order: 4
 ---
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hephaestus_Vulcan_Altemps_Inv8606.jpg/320px-Hephaestus_Vulcan_Altemps_Inv8606.jpg" alt="Hephaestus" style="float:right; margin-left:20px; width:150px;">
