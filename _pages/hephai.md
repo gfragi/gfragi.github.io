@@ -4,9 +4,13 @@ permalink: /hephai/
 layout: page
 nav: false
 nav_order: 4
+# img: assets/img/hephai.png
 ---
 
-<img src="assets/img/hephai.png" alt="Hephaestus" style="float:right; margin-left:20px; width:150px;">
+<div class="text-center">
+    {% include figure.html path="assets/img/hephai.png" title="HEPHAI Logo" class="img-fluid rounded z-depth-1" %}
+</div>
+
 
 ## HEPHAI – Holistic Evaluation Platform for Optimizing Human-AI Interaction
 
