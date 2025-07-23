@@ -47,13 +47,13 @@ nav_order: 4
 
 🕒 **Προθεσμία**: 15 Σεπτεμβρίου 2025
 📧 **Αποστολή**: gfragi@hua.gr (με θέμα: `ΑΙΤΗΣΗ – ΥΔ HEPHAI – Θέση Χ`)
-📎 **Απαιτούμενα**: CV, επιστολή ενδιαφέροντος, τίτλοι, 2 συστάσεις
+📎 **Απαιτούμενα**: CV, επιστολή ενδιαφέροντος, τίτλοι, ;εως 2 συστάσεις
 
 ---
 
 ### 📂 Τεκμηρίωση & Δημοσιεύσεις
 
-- Evaluating Human-AI Collaboration: A Review and Methodological Framework https://arxiv.org/pdf/2407.19098
+- [Evaluating Human-AI Collaboration: A Review and Methodological Framework](https://arxiv.org/pdf/2407.19098)
 ---
 
 ### 🔗 Εξωτερικοί Σύνδεσμοι
