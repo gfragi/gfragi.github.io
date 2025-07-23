@@ -3,8 +3,8 @@ layout: page
 title: Computational Mathematics
 description: The aim of the course is to introduce students to mathematical thinking and functional analysis of many variables.
 img: assets/img/computaniolMath.jpg
-redirect: https://dit.hua.gr/index.php/en/studies/undergraduate-studies/studies-program?view=article&id=38:computational-mathematics-i&catid=80
-importance: 1
+redirect: https://dit.hua.gr/index.php/en/studies/undergraduate-studies?view=article&id=1871:my01-computational-mathematics-2&catid=89
+importance: 3
 category: undergraduate
 ---
 
