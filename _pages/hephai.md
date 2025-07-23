@@ -6,13 +6,13 @@ nav: true
 nav_order: 4
 ---
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hephaestus_Vulcan_Altemps_Inv8606.jpg/320px-Hephaestus_Vulcan_Altemps_Inv8606.jpg" alt="Hephaestus" style="float:right; margin-left:20px; width:150px;">
+<img src="assets/img/hephai.png" alt="Hephaestus" style="float:right; margin-left:20px; width:150px;">
 
 ## HEPHAI – Holistic Evaluation Platform for Optimizing Human-AI Interaction
 
 Το έργο HEPHAI στοχεύει στην ανάπτυξη μιας ολιστικής πλατφόρμας αξιολόγησης για τη βελτιστοποίηση της συνεργασίας ανθρώπου–τεχνητής νοημοσύνης (Human-AI Collaboration - HAIC).
 
-Χρηματοδότηση: Ταμείο Ανάκαμψης και Ανθεκτικότητας – ΟΠΣ ΤΑ 5180664  
+Χρηματοδότηση: Ταμείο Ανάκαμψης και Ανθεκτικότητας – ΟΠΣ ΤΑ 5180664
 Επιστημονικός Υπεύθυνος: [Γ. Φραγκιαδάκης](https://gfragi.github.io/)
 
 ---
@@ -21,7 +21,7 @@ nav_order: 4
 - Αξιολόγηση τεχνικής & κοινωνικής απόδοσης AI συστημάτων σε συνεργασία με ανθρώπους
 - Ανάπτυξη προσομοιώσεων και συνθετικών δεδομένων
 - Ανάλυση ενεργειακής κατανάλωσης και βιωσιμότητας
-- Μέθοδοι τύπου *Learning to Defer*
+<!-- - Μέθοδοι τύπου *Learning to Defer* -->
 
 ---
 
@@ -56,4 +56,4 @@ nav_order: 4
 
 ### 🔗 Εξωτερικοί Σύνδεσμοι
 - [MLCommons – Dynabench](https://dynabench.org/)
-- [Κείμενο Πρότασης (PDF)](https://github.com/gfragi/hephai/raw/main/HEPHAI_Proposal.pdf) *(ανεβάζεις τοπικά)*
+<!-- - [Κείμενο Πρότασης (PDF)](https://github.com/gfragi/hephai/raw/main/HEPHAI_Proposal.pdf) *(ανεβάζεις τοπικά)* -->
