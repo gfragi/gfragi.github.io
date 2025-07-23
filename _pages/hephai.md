@@ -7,9 +7,7 @@ nav_order: 4
 # img: assets/img/hephai.png
 ---
 
-<div class="text-center">
-    {% include figure.html path="assets/img/hephai.png" title="HEPHAI Logo" class="img-fluid rounded z-depth-1" size "small"  %}
-</div>
+{% include figure.html path="assets/img/hephai.png" title="HEPHAI Logo" class="img-fluid rounded z-depth-1 text-center" size="small" %}
 
 
 ## HEPHAI – Holistic Evaluation Platform for Optimizing Human-AI Interaction
