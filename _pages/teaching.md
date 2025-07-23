@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: support the following undergraduate and graduate courses
+description: A collection of courses and teaching activities.
 nav: true
 nav_order: 5
 display_categories: [undergraduate, postgraduate]
