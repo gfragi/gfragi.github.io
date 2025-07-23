@@ -1,8 +1,8 @@
 ---
-title: "HEPHAI Project"
+title: "hephai"
 permalink: /hephai/
 layout: page
-nav: true
+nav: false
 nav_order: 4
 ---
 
