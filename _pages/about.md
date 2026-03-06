@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.dit.hua.gr/index.php/en/'>Department of Informatics and Telematics @HUA</a>
-
+subtitle: Post-Doctoral Researcher — Harokopio University of Athens | Human-AI Collaboration • AI Systems Evaluation • Cloud Computing
 profile:
   align: right
   image: prof_pic.jpg
@@ -19,16 +18,26 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, I'm George M. Fragiadakis, with a deep-rooted passion and commitment to advancing knowledge in various academic and professional fields. I recently defended my PhD, exploring the techno-economics of Cloud Services, and I am thrilled to embark on a new journey as a Postdoctoral Researcher at Harokopio University. My current research focuses on "Optimizing Human-AI Synergy: Developing a Comprehensive Benchmarking Suite for Human-AI Collaboration in Diverse Industries," where I aim to bridge the gap between human capabilities and artificial intelligence to enhance collaborative efforts across sectors.
+Hello, I'm George M. Fragiadakis, a Post-Doctoral Researcher at the <a href='https://www.dit.hua.gr/index.php/en/'>Department of Informatics and Telematics, Harokopio University of Athens</a>.
 
-My academic background is diverse and thorough, starting with a Bachelor's degree in <a href="https://en.phys.uoa.gr/">Physics from the National Kapodistrian University in Athens</a>. I furthered my education with a Master's degree in <a href="https://www.dit.hua.gr/index.php/en/" >Informatics and Telematics from Harokopio University</a>, specializing in the Development and Operations of Next Generation Networks and Services. The Erasmus program provided me with the invaluable opportunity to study at the Niels Bohr Institute in Copenhagen, enriching my academic experience.
+My research focuses on the design, evaluation, and sustainability of intelligent computing systems, with particular emphasis on Human-AI Collaboration (HAIC), AI system evaluation, and cloud computing infrastructures. I currently work on the development of benchmarking frameworks and experimental platforms for evaluating Human-AI collaboration, aiming to provide rigorous methodologies for assessing how humans and AI systems interact in real-world decision-making environments. My work combines elements from machine learning, distributed systems, cloud computing, and techno-economic analysis to study the performance, efficiency, trust, and sustainability of AI-enabled systems.
 
-Professionally, I bring over eight years of experience in the technology sector, most recently serving as a DevOps Engineer at <a href="https://studyingreece.edu.gr/study-in-greece/">Study in Greece</a>. My expertise in Kubernetes and Docker has been instrumental in managing and deploying containerized applications efficiently. My educational and professional journey has honed my analytical skills, enabling me to extract meaningful insights from complex data sets and contribute significantly to technoeconomics, data engineering, and business analysis.
+My PhD research explored the techno-economic analysis of cloud services, focusing on the application of machine learning methods to predict cloud pricing and support decision-making in multi-cloud environments. This work bridges technical system design with economic evaluation, contributing to the broader research area of FinOps and sustainable cloud computing.
 
-Teaching has always been a passion, allowing me to share knowledge and complex concepts across various educational levels effectively. Beyond my academic and professional life, my family remains my greatest inspiration and motivation, providing a well-rounded perspective and infusing creativity into my work.
+I hold a Bachelor’s degree in Physics from the <a href="https://en.phys.uoa.gr/">National and Kapodistrian University of Athens</a> and a Master’s degree in Informatics and Telematics from <a href="https://www.dit.hua.gr/index.php/en/">Harokopio University</a>, where I specialized in the development and operation of next-generation networked systems. During my studies, I also spent time at the Niels Bohr Institute, University of Copenhagen, through the Erasmus programme.
+
+Alongside my academic work, I have several years of professional experience in the technology sector, including work as a DevOps Engineer, where I focused on cloud infrastructure, container orchestration, and scalable system deployment using Kubernetes and Docker. This practical experience informs my research on cloud architectures, system evaluation, and large-scale computing platforms.
+
+In addition to research, I am actively involved in teaching and mentoring, contributing to courses related to Artificial Intelligence, Cloud Computing, Machine Learning, and Human-Computer Interaction. My goal is to help students develop both conceptual understanding and practical skills in modern computing systems.
 
 
+## Research Interests
 
+Human–AI Collaboration  
+AI Systems Evaluation and Benchmarking  
+Cloud Computing and Distributed Systems  
+Techno-Economic Analysis of Cloud Services  
+Sustainable and Green Computing
 
 
 
