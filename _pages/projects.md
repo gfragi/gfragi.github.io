@@ -5,7 +5,7 @@ permalink: /projects/
 description: Research projects and lines of work.
 nav: true
 nav_order: 2
-display_categories: [research]
+display_categories: [research, teaching resources, side projects]
 horizontal: false
 ---
 

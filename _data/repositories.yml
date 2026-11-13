@@ -3,7 +3,8 @@ github_users:
 
 github_repos:
   - gfragi/haic-libs
-  - gfragi/eda
+  - gfragi/haic-libs-rag-replication
+  - gfragi/haic-mode-framework-replication
+  - gfragi/haic_benchmark_suite
   - gfragi/cloudCasestudy
-  - gfragi/gfragi.github.io
   - gfragi/py_regression
