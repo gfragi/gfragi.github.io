@@ -8,7 +8,7 @@ middle_name: M.
 last_name: Fragiadakis 
 email: gfragi@hua.gr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  George M. Fragiadakis — postdoctoral researcher at Harokopio University of Athens and AI Engineer at VML. Human-AI collaboration, AI systems evaluation, sustainable AI and cloud techno-economics.
+  George M. Fragiadakis — postdoctoral researcher at Harokopio University of Athens and AI Engineer at MAP (WPP Enterprise Solutions). Human-AI collaboration, AI systems evaluation, sustainable AI and cloud techno-economics.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

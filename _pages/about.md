@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Researcher & Adjunct Lecturer — Harokopio University of Athens · AI Engineer — VML (WPP) <br> Human-AI Collaboration • AI Systems Evaluation • Sustainable Cloud & AI
+subtitle: Postdoctoral Researcher & Adjunct Lecturer — Harokopio University of Athens · AI Engineer — <a href="https://map.enterprisesolutions.wpp.com/">MAP (WPP Enterprise Solutions)</a> <br> Human-AI Collaboration • AI Systems Evaluation • Sustainable Cloud & AI
 profile:
   align: right
   image: prof_pic.jpg
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, I'm George M. Fragiadakis, a Postdoctoral Researcher and Adjunct Lecturer at the <a href='https://www.dit.hua.gr/index.php/en/'>Department of Informatics and Telematics, Harokopio University of Athens</a> (HUA), and an AI Engineer at <a href="https://www.vml.com/">VML</a> (WPP group) in Athens.
+Hello, I'm George M. Fragiadakis, a Postdoctoral Researcher and Adjunct Lecturer at the <a href='https://www.dit.hua.gr/index.php/en/'>Department of Informatics and Telematics, Harokopio University of Athens</a> (HUA), and an AI Engineer at <a href="https://map.enterprisesolutions.wpp.com/">MAP</a> (WPP Enterprise Solutions) in Athens.
 
 My research is on **Human-AI Collaboration (HAIC)**: how to measure, in a rigorous and domain-agnostic way, whether people and AI systems actually work well together — trust and its calibration, the effort humans spend correcting or overriding AI, adaptability, and usability. Within the Horizon Europe project <a href="https://cordis.europa.eu/project/id/101120218">HumAIne</a> I designed and built the **HAIC Benchmark Suite**, an evaluation platform and the open-source Python library <a href="https://github.com/gfragi/haic-libs">haic-libs</a> (`haic-logging`, `haic-metrics`) that compute collaboration metrics from structured interaction logs. It has been validated in real pilots, including a public-services pilot on smart-city permit applications, and extended with probabilistic surrogate-user simulation for testing collaboration scenarios before deployment.
 
@@ -26,7 +26,7 @@ In the Horizon Europe project <a href="https://cordis.europa.eu/project/id/10118
 
 My PhD research explored the techno-economic analysis of cloud services, applying machine learning to predict cloud pricing and support decision-making in multi-cloud environments. That line continues in work on **FinOps** — extending cost governance to the design stage of cloud systems — and on decision support for **cybersecurity investment optimisation**.
 
-Before academia I spent about ten years in industry as a cloud, IoT and DevOps engineer (Kubernetes, Docker, CI/CD, observability). Today, at VML, I work on agentic AI systems and their evaluation and observability, which keeps my research close to how AI is actually built and deployed.
+Before academia I spent about ten years in industry as a cloud, IoT and DevOps engineer (Kubernetes, Docker, CI/CD, observability). Today I work as an AI Engineer at <a href="https://map.enterprisesolutions.wpp.com/">MAP</a> (WPP Enterprise Solutions).
 
 I hold a Bachelor's degree in Physics from the <a href="https://en.phys.uoa.gr/">National and Kapodistrian University of Athens</a>, with an Erasmus stay at the Niels Bohr Institute (University of Copenhagen), and a Master's degree in Informatics and Telematics from <a href="https://www.dit.hua.gr/index.php/en/">Harokopio University</a>.
 

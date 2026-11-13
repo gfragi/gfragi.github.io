@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined [VML](https://www.vml.com/) (WPP group) as an AI Engineer in the new Athens hub, alongside my research and teaching at Harokopio University.
+Joined [MAP (WPP Enterprise Solutions)](https://map.enterprisesolutions.wpp.com/) as an AI Engineer, alongside my research and teaching at Harokopio University.

@@ -55,7 +55,7 @@
   type: time_table
   contents:
     - title: AI Engineer
-      institution: VML (WPP group), Athens hub
+      institution: <a href="https://map.enterprisesolutions.wpp.com/">MAP (WPP Enterprise Solutions)</a>
       year: 2026 - Present
       description:
         - Agentic AI systems engineering on Google Cloud (Terraform, BigQuery, Python)
