@@ -8,11 +8,11 @@ middle_name: M.
 last_name: Fragiadakis 
 email: gfragi@hua.gr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  George M. Fragiadakis — postdoctoral researcher at Harokopio University of Athens and AI Engineer at VML. Human-AI collaboration, AI systems evaluation, sustainable AI and cloud techno-economics.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: phd, jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: human-ai collaboration, HAIC, AI evaluation, benchmarking, trust in AI, green AI, cloud computing, FinOps, techno-economics, Harokopio University  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🎓  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

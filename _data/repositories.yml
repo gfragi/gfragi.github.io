@@ -2,6 +2,7 @@ github_users:
   - gfragi
 
 github_repos:
+  - gfragi/haic-libs
   - gfragi/eda
   - gfragi/cloudCasestudy
   - gfragi/gfragi.github.io

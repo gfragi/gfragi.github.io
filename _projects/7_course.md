@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cloud Management
-description: Through the course completion, students are expected to have a complete knowledge of the problems and techniques for addressing quality of service issues in cloud environments.
+description: Managing cloud infrastructure in practice — CI/CD, infrastructure as code with Terraform, and hands-on OpenStack (DevStack) and GCP labs.
 img: assets/img/cloud_mgmt.jpg
 importance: 2
 category: undergraduate

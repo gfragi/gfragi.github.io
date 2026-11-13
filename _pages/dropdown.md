@@ -10,6 +10,4 @@ children:
     - title: divider
     - title: projects
       permalink: /projects/
-    - title: hephai
-      permalink: /hephai/
 ---

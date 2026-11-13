@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
-inline: false
+date: 2026-11-05 10:00:00+0200
+inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Presented *Towards Sustainable AI: Sustainability Metrics for Inference Engines in Different Deployments* at IEEE SMC 2026 — energy-aware inference profiling combined with deployment cost into a single sustainability score (CERTAIN project).

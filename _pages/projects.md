@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A collection of projects and research activities.
-nav: false
+description: Research projects and lines of work.
+nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [research]
 horizontal: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Applications of Data Science and Artificial Intelligence
-description: Comprehensive Understanding of the foundational concepts, principles, and theories underlying data science and artificial intelligence.
+description: Foundations of data science and AI applications, including AI agent fundamentals and human-AI collaboration (HAIC) methodologies.
 img: assets/img/machine-learning.jpg
 importance: 5
 category: postgraduate

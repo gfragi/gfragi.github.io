@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 9th of August 1985
     - name: Languages
-      value: Greek, English
+      value: Greek (native), English (fluent), Danish (basic), French (basic)
 
 - title: Education
   type: time_table
@@ -17,21 +17,22 @@
       description:
         - title: PostDoc Research
           contents:
-            - "Optimizing Human-AI Synergy Developing a Comprehensive Benchmarking Suite for Human-AI Collaboration in Diverse Industries"
+            - "Optimizing Human-AI Synergy: Developing a Comprehensive Benchmarking Suite for Human-AI Collaboration in Diverse Industries"
     - title: PhD in Techno-economics and Cloud Services
       institution: Harokopio University
-      year: 2023
+      year: Nov. 2023
       description:
         - title: Thesis title
           contents:
             - "An Intelligent Framework for the Techno-economic Analysis on Cloud Services"
+        - "Grade: Excellent"
         - title: Teaching assistance on undergraduate subjects
           contents:
             - Computational Mathematics
             - Numerical Analysis
     - title: M.Sc. in Informatics and Telematics
       institution: Harokopio University
-      year: 2016
+      year: Dec. 2016
       description:
         - Advanced Telecommunication Systems and Applications
         - title: Thesis
@@ -41,20 +42,43 @@
         - Cumulative GPA 9.53 / 10.00
     - title: B.Sc. in Physics
       institution: National and Kapodistrian University of Athens
-      year: 2014
+      year: Jun. 2014
       description:
         - Cumulative GPA 6.22 / 10.00
+    - title: Erasmus student in Physics
+      institution: Niels Bohr Institute, University of Copenhagen
+      year: Aug. 2008 - Feb. 2009
+      description:
+        - Nuclear and Particle Physics, Simple Climate Models, Turbulence, Relativistic Cosmology, Danish language
 
 - title: Experience
   type: time_table
   contents:
-    - title: DevOps & Software Engineer
-      institution: Study in Greece | Official Portal
-      year: Jul 2021 - Present
+    - title: AI Engineer
+      institution: VML (WPP group), Athens hub
+      year: 2026 - Present
       description:
-        - Implementation of CI/CD across the entire infrastructure
-        - Kubernetes cluster develomepent & maintenance
-        - Web Platforms Development using Django \& FastAPI
+        - Agentic AI systems engineering on Google Cloud (Terraform, BigQuery, Python)
+        - Evaluation and observability of LLM-based and agentic applications
+
+    - title: Postdoctoral Researcher & Adjunct Lecturer
+      institution: Harokopio University of Athens, Dept. of Informatics and Telematics
+      year: Nov 2023 - Present
+      description:
+        - "HumAIne (Horizon Europe, GA 101120218, since Oct 2023): architect of the HAIC Benchmark Suite and the open-source haic-libs library (haic-logging, haic-metrics) for evaluating human-AI collaboration from interaction logs; technical evaluator for the project pilots"
+        - "CERTAIN (Horizon Europe, GA 101189650, since Jun 2025): lead of Task 4.6 on energy and e-waste footprint minimisation for AI systems and data-space federations"
+        - Contributions to CEN/CENELEC JTC 21 (AI standardisation) and the NexusForum R&I roadmap
+        - Undergraduate and MSc teaching; primary supervisor of 9 BSc theses (6 completed) and of MSc theses
+
+    - title: DevOps Engineer
+      institution: Study in Greece | Official Portal
+      year: Jul 2021 - Dec 2025
+      description:
+        - CI/CD pipelines across the infrastructure (Jenkins, GitLab)
+        - Kubernetes environments — orchestration, scalability, deployment workflows
+        - Keycloak identity and access management / single sign-on for web applications
+        - Monitoring and logging with Prometheus and Grafana
+        - Web platforms and backend services with Django and FastAPI; test automation with Cypress
 
     - title: Cloud & IoT Engineer
       institution: Fermorite
@@ -98,12 +122,41 @@
         - Preparing educational notes and exercises.
         - Final exam preparation.
 
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Undergraduate
+      institution: Dept. of Informatics and Telematics, Harokopio University of Athens
+      description:
+        - Cloud Management — full course responsibility (CI/CD, Terraform, OpenStack/DevStack and GCP labs)
+        - Logic Design — full course responsibility (2024-2025)
+        - "Teaching assistance: Computational Mathematics, Numerical Analysis, Operating Systems (lab), Assessment of ICT Investments"
+    - title: Postgraduate
+      institution: Harokopio University of Athens (MSc programmes)
+      description:
+        - Applications of Data Science and Artificial Intelligence (agent fundamentals, HAIC methodologies)
+        - Introduction to Python and Introduction to AI (MSc Applied Informatics)
+        - Technology Economics & Investment Valuation (FinOps)
+        - Cloud Systems Design
+
+- title: Academic Service and Memberships
+  type: time_table
+  contents:
+    - title: Reviewer
+      description:
+        - Cluster Computing (Springer Nature)
+        - ACM Transactions on Intelligent Systems and Technology
+        - IEEE Access
+        - "IEEE Transactions on Systems, Man and Cybernetics: Systems"
+    - title: Regular member
+      institution: Hellenic Artificial Intelligence Society (EETN), member society of EurAI
+
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2022
       items:
-        - PhD scholarship from State Scholarships Foundation
+        - PhD scholarship from State Scholarships Foundation (IKY)
     - year: 2015
       items:
         - M.Sc. Summer semester performance scholarship "Georgios Karabatzos"
